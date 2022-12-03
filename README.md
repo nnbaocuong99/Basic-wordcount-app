@@ -1,12 +1,16 @@
-### WordCounterApp
+### WordCounterApp_v1.0
 ---
 
-## data:
+## requirement
+
+data: 
 
 - req source: `Assignment_4-WordCounter.pdf`
 - data source: `data.txt`
 
-## req:
+req:
 
 - read a text file 
 - delete special characters
+
+---
