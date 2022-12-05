@@ -1,6 +1,10 @@
 ### WordCounterApp_v1.0
 ---
 
+## introduce
+- Java app that reads a file and removes special characters and numbers as well as display the number of words and letter in each line.
+
+
 ## requirement
 
 data: 
